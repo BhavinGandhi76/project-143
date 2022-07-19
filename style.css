@@ -1,0 +1,38 @@
+.heading {
+    text-align: left;
+    width: 100%;
+}
+
+.bt1 {
+    float: right;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+#Start, #Status, #RS{
+
+    font-size: 25px;
+}
+
+.heading h1{
+    display: inline;
+    font-size: 50px;
+}
+
+.footer {
+    width: 100%;
+    background-color:lightgray ;
+    color: black;
+    font-size: 25px;
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    text-align:center;
+}
+
+canvas {
+    background-color: white;
+    border: solid 3px black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 38px darkcyan;
+}
